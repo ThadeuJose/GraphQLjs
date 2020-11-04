@@ -9,3 +9,5 @@ Code from the course https://graphql.org/graphql-js/
 # Source
 
 [Graphql](https://graphql.org/graphql-js/)
+
+[Graphql Learn](https://graphql.org/learn/)
